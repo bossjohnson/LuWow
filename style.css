@@ -1,0 +1,13 @@
+main {
+    border: 10px double #5A48DC;
+    border-radius: 40px;
+}
+main div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.shirt {
+    height: 100%;
+    width: 20%;
+}
